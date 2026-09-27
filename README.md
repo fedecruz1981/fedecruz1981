@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hola, soy Federico 👋
 
-<!--
-**fedecruz1981/fedecruz1981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎚️ Técnico de sonido · 🎵 Música y tecnología · 💻 Creative Coding
 
-Here are some ideas to get you started:
+Trabajo con audio y sonido, y estoy explorando la programación como una herramienta para crear, aprender y construir proyectos.
 
-- 🔭 I’m currently working on Max-MSP-Jitter...
-- 🌱 I’m currently learning Python...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+
+- 🎚️ Sonido, grabación y producción
+- 🎛️ Max/MSP y programación de audio
+- 🎵 Música algorítmica y creative coding
+- 🌐 Desarrollo web
+- 🤖 Desarrollo asistido por IA
+- 📚 Documentación y aprendizaje técnico
+
+## Proyectos
+
+### MSP Tutoriales ES
+
+Tutoriales de MSP en español, organizados como una aplicación web con Astro y MDX.
+
+[Ver proyecto](https://github.com/fedecruz1981/msp-tutorials-es)
+
+## Tecnologías
+
+`Max/MSP` `Astro` `MDX` `JavaScript` `TypeScript` `Git` `GitHub`
+
+## Actualmente
+
+Explorando nuevas formas de combinar audio, programación, web e inteligencia artificial.
+
+---
+
+[GitHub](https://github.com/fedecruz1981)
