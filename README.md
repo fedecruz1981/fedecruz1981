@@ -33,7 +33,14 @@ Descarga audio de YouTube y edítalo inline: MP3, WAV o FLAC, con waveform, trim
 
 [Ver proyecto](https://github.com/fedecruz1981/fedo-downloader)
 
-### fedo-subfactory
+
+
+### fedo-stagelnk
+
+Sistema cliente/servidor para reproducción multimedia distribuida en espectáculos: varios clientes sincronizados a un servidor por LAN Ethernet. .NET 8 + C# + WPF + NAudio + FFmpeg.
+
+[Ver proyecto](https://github.com/fedecruz1981/fedo-stagelnk)
+
 
 Fabrica de subtitulos: descarga videos, los transcribe con Whisper y los traduce a subtitulos en varios idiomas. Electron + React + Python.
 
@@ -41,7 +48,7 @@ Fabrica de subtitulos: descarga videos, los transcribe con Whisper y los traduce
 
 ## Tecnologías
 
-`Max/MSP` `Astro` `MDX` `Electron` `React` `Vite` `TypeScript` `Python` `Tailwind CSS` `yt-dlp` `JavaScript` `Git` `GitHub`
+`Max/MSP` `Astro` `MDX` `Electron` `React` `Vite` `TypeScript` `Python` `Tailwind CSS` `yt-dlp` `C#` `.NET 8` `WPF` `NAudio` `FFmpeg` `JavaScript` `Git` `GitHub`
 
 ## Actualmente
 
