@@ -33,6 +33,12 @@ Descarga audio de YouTube y edítalo inline: MP3, WAV o FLAC, con waveform, trim
 
 [Ver proyecto](https://github.com/fedecruz1981/fedo-downloader)
 
+### fedo-subfactory
+
+Fabrica de subtitulos: descarga videos, los transcribe con Whisper y los traduce a subtitulos en varios idiomas. Electron + React + Python.
+
+[Ver proyecto](https://github.com/fedecruz1981/fedo-subfactory)
+
 ## Tecnologías
 
 `Max/MSP` `Astro` `MDX` `Electron` `React` `Vite` `TypeScript` `Python` `Tailwind CSS` `yt-dlp` `JavaScript` `Git` `GitHub`
