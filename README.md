@@ -17,13 +17,19 @@ Trabajo con audio y sonido, y estoy explorando la programación como una herrami
 
 ### MSP Tutoriales ES
 
-Tutoriales de MSP en español, organizados como una aplicación web con Astro y MDX.
+Los 63 tutoriales de MSP de Cycling '74 traducidos al español y organizados como una experiencia web de aprendizaje.
 
 [Ver proyecto](https://github.com/fedecruz1981/msp-tutorials-es)
 
+### fedo~explorer
+
+Explorador de archivos de audio para escritorio con reproducción integrada, metadata técnica y waveform. Electron + React + Vite.
+
+[Ver proyecto](https://github.com/fedecruz1981/fedo-explorer)
+
 ## Tecnologías
 
-`Max/MSP` `Astro` `MDX` `JavaScript` `TypeScript` `Git` `GitHub`
+`Max/MSP` `Astro` `MDX` `Electron` `React` `Vite` `JavaScript` `TypeScript` `Git` `GitHub`
 
 ## Actualmente
 
