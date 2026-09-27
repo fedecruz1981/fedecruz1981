@@ -27,9 +27,15 @@ Explorador de archivos de audio para escritorio con reproducción integrada, met
 
 [Ver proyecto](https://github.com/fedecruz1981/fedo-explorer)
 
+### fedo-downloader
+
+Descarga audio de YouTube y editalo inline: MP3, WAV o FLAC, con waveform, trim, fades, ganancia y normalizacion. Electron + React + TypeScript + Python.
+
+[Ver proyecto](https://github.com/fedecruz1981/fedo-downloader)
+
 ## Tecnologías
 
-`Max/MSP` `Astro` `MDX` `Electron` `React` `Vite` `JavaScript` `TypeScript` `Git` `GitHub`
+`Max/MSP` `Astro` `MDX` `Electron` `React` `Vite` `TypeScript` `Python` `Tailwind CSS` `yt-dlp` `JavaScript` `Git` `GitHub`
 
 ## Actualmente
 
