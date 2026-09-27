@@ -41,8 +41,6 @@ Fabrica de subtitulos: descarga videos, los transcribe con Whisper y los traduce
 
 ### fedo-stagelnk
 
-### fedo-stagelnk
-
 Sistema cliente/servidor para reproducción multimedia distribuida en espectáculos: varios clientes sincronizados a un servidor por LAN Ethernet. .NET 8 + C# + WPF + NAudio + FFmpeg.
 
 [Ver proyecto](https://github.com/fedecruz1981/fedo-stagelnk)
