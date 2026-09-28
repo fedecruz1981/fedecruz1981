@@ -15,11 +15,15 @@ Trabajo con audio y sonido, y estoy explorando la programación como una herrami
 
 ## Proyectos
 
-### MSP Tutoriales ES
+### fedo-stagelnk
 
-Los 63 tutoriales de MSP de Cycling '74 traducidos al español y organizados como una experiencia web de aprendizaje.
+Sistema cliente/servidor para reproducción multimedia distribuida en espectáculos: varios clientes sincronizados a un servidor por LAN Ethernet. .NET 8 + C# + WPF + NAudio + FFmpeg.
 
-[Ver proyecto](https://github.com/fedecruz1981/msp-tutorials-es)
+![Panel de operador de fedo-stagelnk](assets/fedo-stagelnk.png)
+
+Para técnicos de sonido: colas de una línea, cues por número, cartel de bienvenida, muestreo de medios desde una biblioteca local y reproducción distribuida en red.
+
+[Ver proyecto](https://github.com/fedecruz1981/fedo-stagelnk)
 
 ### fedo~explorer
 
@@ -39,11 +43,11 @@ Fábrica de Subtítulos: descarga vídeos, los transcribe con Whisper y los trad
 
 [Ver proyecto](https://github.com/fedecruz1981/fedo-subfactory)
 
-### fedo-stagelnk
+### MSP Tutoriales ES
 
-Sistema cliente/servidor para reproducción multimedia distribuida en espectáculos: varios clientes sincronizados a un servidor por LAN Ethernet. .NET 8 + C# + WPF + NAudio + FFmpeg.
+Los 63 tutoriales de MSP de Cycling '74 traducidos al español y organizados como una experiencia web de aprendizaje.
 
-[Ver proyecto](https://github.com/fedecruz1981/fedo-stagelnk)
+[Ver proyecto](https://github.com/fedecruz1981/msp-tutorials-es)
 
 ## Tecnologías
 
