@@ -23,7 +23,7 @@ Los 63 tutoriales de MSP de Cycling '74 traducidos al español y organizados com
 
 ### fedo~explorer
 
-Explorador de archivos de audio para escritorio con reproducción integrada, metadata técnica y waveform. Electron + React + Vite.
+Explorador de archivos de audio para escritorio con reproducción integrada, metadata técnica, waveform y medición de BPM y LUFS (EBU R128). Electron + React + Vite.
 
 [Ver proyecto](https://github.com/fedecruz1981/fedo-explorer)
 
@@ -35,7 +35,7 @@ Descarga audio de YouTube y edítalo inline: MP3, WAV o FLAC, con waveform, trim
 
 ### fedo-subfactory
 
-Fabrica de subtitulos: descarga videos, los transcribe con Whisper y los traduce a subtitulos en varios idiomas. Electron + React + Python.
+Fábrica de Subtítulos: descarga vídeos, los transcribe con Whisper y los traduce a subtítulos en varios idiomas. Electron + React + Python.
 
 [Ver proyecto](https://github.com/fedecruz1981/fedo-subfactory)
 
