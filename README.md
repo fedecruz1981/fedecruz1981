@@ -4,6 +4,8 @@
 
 Trabajo con audio y sonido, y estoy explorando la programación como una herramienta para crear, aprender y construir proyectos.
 
+[Landing personal](https://fedecruz1981.vercel.app) · [MSP Tutoriales ES (sitio)](https://fedecruz1981.github.io/msp-tutorials-es/)
+
 ## Sobre mí
 
 - 🎚️ Sonido, grabación y producción
@@ -47,7 +49,7 @@ Fábrica de Subtítulos: descarga vídeos, los transcribe con Whisper y los trad
 
 Los 63 tutoriales de MSP de Cycling '74 traducidos al español y organizados como una experiencia web de aprendizaje.
 
-[Ver proyecto](https://github.com/fedecruz1981/msp-tutorials-es)
+[Ver sitio](https://fedecruz1981.github.io/msp-tutorials-es/) · [Ver proyecto](https://github.com/fedecruz1981/msp-tutorials-es)
 
 ## Tecnologías
 
